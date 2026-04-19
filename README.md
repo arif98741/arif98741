@@ -1,28 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<h3 align="center">Passionate Backend Developer, PHP Lover</h3>
+# 👋 Hi, I'm Ariful Islam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arif98741&label=Profile%20views&color=0e75b6&style=flat" alt="arif98741" /> </p>
+### 🐘 Senior Backend Engineer | Multi-Cloud & Network Architect
+Founder of **[Programming Mindset](https://programmingmindset.com)** and creator of **[DevToBox](https://devtobox.com)**. I bridge the gap between high-performance Laravel applications and robust cloud networking infrastructure.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arif98741" alt="arif98741" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/arif98741" target="blank"><img src="https://img.shields.io/twitter/follow/arif98741?logo=twitter&style=for-the-badge" alt="arif98741" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/arif98741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arif98741" height="30" width="40" /></a>
-<a href="https://dev.to/arif98741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arif98741" height="30" width="40" /></a>
-<a href="https://twitter.com/arif98741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arif98741" height="30" width="40" /></a>
-<a href="https://arif98741.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="arif98741" height="30" width="40" /></a>
+  <img src="https://komarev.com/ghpvc/?username=arif98741&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arif98741&show_icons=true&locale=en&layout=compact" alt="arif98741" /></p>
+### 🚀 Technical Arsenal
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arif98741&show_icons=true&locale=en" alt="arif98741" /></p>
+#### **Core Backend & Frameworks**
+* **Languages:** PHP 8.x (Expert), JavaScript/TypeScript (Next.js/React), SQL.
+* **Frameworks:** **Laravel** (Octane, Sanctum, Horizon), Symfony components.
+* **Architecture:** Microservices, Domain-Driven Design (DDD), SEO-First Development.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arif98741&" alt="arif98741" /></p>
+#### **Network & Cloud Infrastructure**
+* **Providers:** **Google Cloud (GCP)**, **AWS**, **OVH**, DigitalOcean.
+* **Networking:** VPC/Subnet design, VPN (Site-to-Site/Client), Load Balancing, Firewall orchestration.
+* **Database Scaling:** **ProxySQL** (Read/Write splitting, Query routing), PostgreSQL, Redis.
+* **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions), Nginx.
+
+#### **AI Agents & LLM Integration**
+* **Models:** ChatGPT (GPT-4), Claude 3.5, Google Gemini, Alibaba Qwen.
+* **Usage:** Implementation of AI agents, LLM-driven workflows, and intelligent system automation.
+* **Badges:** ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white) 
+  ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white) 
+  ![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white) 
+  ![Qwen](https://img.shields.io/badge/Qwen-615ced?style=flat-square&logo=alibabacloud&logoColor=white)
+
+---
+
+### 📈 Dynamic Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arif98741&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif98741&layout=compact&langs_count=6&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif98741&hide_border=true" height="150" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif98741&theme=github&area=false&hide_border=true&height=250" width="80%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🛠 Key Ventures
+
+#### **[ProgrammingMindset.com](https://programmingmindset.com)**
+My primary platform and **[Medium Publication](https://arif98741.medium.com)** for sharing insights on software engineering and cloud architecture.
+
+#### **[DevToBox.com](https://devtobox.com)**
+A developer utility hub built on a **Laravel + Next.js** hybrid architecture.
+* **Stack:** Laravel (API), Next.js (Frontend), ProxySQL cluster.
+* **Cloud:** Automated containerized deployments via GitHub Actions.
+
+---
+
+### 🎯 Expertise & Focus
+* 🔭 **I’m currently working on:** Scaling database clusters using ProxySQL and isolated VPC architectures.
+* 🌱 **I’m currently learning:** Advanced AI implementation patterns and Kubernetes networking (CNI).
+* 💬 **Ask me about:** Laravel service patterns, Subnetting/VPC design, and SQL query optimization.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/arif98741/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://arif98741.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="mailto:programmingmindsetbd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://programmingmindset.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
