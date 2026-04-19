@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ariful Islam
 
 ### 🐘 Senior Backend Engineer | Multi-Cloud & Network Architect
-Founder of **[Programming Mindset](https://programmingmindset.com)** and creator of **[DevToBox](https://devtobox.com)**. I bridge the gap between high-performance Laravel applications and robust cloud networking infrastructure.
+Founder of **[Programming Mindset](https://programmingmindset.com)** and architect of **[DevToBox](https://devtobox.com)**. I specialize in engineering high-concurrency Laravel ecosystems integrated with secure, multi-cloud network topologies.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=arif98741&label=Profile%20Views&color=blue&style=flat-square" alt="Views" />
@@ -74,9 +74,4 @@ A developer utility hub built on a **Laravel + Next.js** hybrid architecture.
 <a href="https://arif98741.medium.com" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="mailto:programmingmindsetbd@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://programmingmindset.com" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
-</p>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
