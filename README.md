@@ -1,12 +1,13 @@
 # Ariful Islam
 
-**Senior Backend Engineer — Multi-Cloud & Network Architecture**
-Dhaka, Bangladesh · [programmingmindset.com](https://programmingmindset.com)
+**Senior PHP Engineer — Backend, Multi-Cloud & Network Architecture**
+Educator · Mentor · Open-source maintainer · Dhaka, Bangladesh
 
-I build and scale high-concurrency Laravel systems, and the multi-cloud network topologies they run on. Founder of **[Programming Mindset](https://programmingmindset.com)** and maintainer of several open-source PHP packages for the Bangladeshi payments and SMS ecosystem.
+PHP across Laravel, CodeIgniter, CakePHP and Slim, building high-concurrency APIs and the multi-cloud network topologies they run on. Founder of **[Programming Mindset](https://programmingmindset.com)**, where I teach backend engineering on [YouTube](https://www.youtube.com/@programmingmindset) and mentor developers moving into senior roles. My packages for the Bangladeshi SMS and payments ecosystem are installed in production systems across the country.
 
 <p>
   <a href="https://www.linkedin.com/in/arif98741/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.youtube.com/@programmingmindset"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://arif98741.medium.com"><img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="mailto:programmingmindsetbd@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://programmingmindset.com"><img src="https://img.shields.io/badge/Website-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
@@ -41,7 +42,11 @@ composer require xenon/laravelbdsms
 
 ## Tech Stack
 
-**Backend** — PHP 8.x · Laravel (Octane, Horizon, Sanctum) · Symfony components · REST & queue-driven APIs
+**Languages** — PHP 8.x · JavaScript / TypeScript · SQL · Python
+
+**PHP Frameworks** — Laravel (Octane, Horizon, Sanctum) · CodeIgniter · CakePHP · Slim · Symfony components · WordPress
+
+**API Design** — REST architecture, versioning and documentation · token and OAuth authentication · rate limiting · queue-driven and event-based services
 
 **Frontend** — TypeScript · Next.js · React
 
@@ -58,6 +63,9 @@ composer require xenon/laravelbdsms
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white" alt="CakePHP" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
@@ -75,10 +83,21 @@ composer require xenon/laravelbdsms
 ## Ventures
 
 ### [Programming Mindset](https://programmingmindset.com)
-Writing and teaching on software engineering and cloud architecture, with long-form pieces also published on [Medium](https://arif98741.medium.com).
+A web agency building fast, maintainable websites and applications — design, development and consultation — alongside the teaching platform of the same name.
 
 ### [DevToBox](https://devtobox.com)
 A developer utility hub on a Laravel + Next.js hybrid architecture — Laravel serving the API, Next.js the frontend, backed by a ProxySQL cluster with containerized deployments through GitHub Actions.
+
+---
+
+## Teaching & Community
+
+I spend a meaningful share of my time helping other developers get better at backend work.
+
+- **[YouTube — @programmingmindset](https://www.youtube.com/@programmingmindset)** — practical walkthroughs on PHP, Laravel, APIs and deployment, aimed at developers who want to understand the reasoning rather than copy the code.
+- **[Medium — @arif98741](https://arif98741.medium.com)** — long-form writing on software engineering and cloud architecture.
+- **Mentoring** — one-to-one guidance for developers moving from mid-level into senior backend roles: code review, architecture decisions, and career direction.
+- **Open source** — maintaining the packages above and contributing to the wider PHP ecosystem.
 
 ---
 
@@ -87,6 +106,7 @@ A developer utility hub on a Laravel + Next.js hybrid architecture — Laravel s
 - **Building** — database cluster scaling with ProxySQL behind isolated VPC architectures
 - **Learning** — Kubernetes networking (CNI) and production patterns for AI agents
 - **Happy to talk about** — Laravel service design, VPC and subnetting, SQL query optimization
+- **Open to** — mentoring enquiries, open-source collaboration, and backend architecture consulting
 
 ---
 
